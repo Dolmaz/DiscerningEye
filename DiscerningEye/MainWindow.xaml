@@ -16,7 +16,9 @@
                       MaxWidth="1280"
                       MinHeight="600"
                       MinWidth="800"
-                      SizeChanged="mainWindow_SizeChanged">
+                      Loaded="mainWindow_Loaded"
+                      Closed="mainWindow_Closed"
+                      StateChanged="mainWindow_StateChanged">
     <Controls:MetroWindow.Resources>
         <CollectionViewSource x:Key="ItemCollectionViewSource"
                               CollectionViewType="ListCollectionView" />
@@ -139,13 +141,13 @@
                     <StackPanel Orientation="Horizontal"
                                 Grid.Column="3"
                                 Grid.Row="3">
-                    <Button Grid.Column="2"
+                        <Button Grid.Column="2"
                             Grid.Row="3"
                             Name="btnApplyFilter"
                             Margin="5,5,5,5"
                             Content="Apply Filter"
                             Click="btnApplyFilter_Click"/>
-                    <Button Grid.Column="3"
+                        <Button Grid.Column="3"
                             Grid.Row="4" 
                             Content="CLear Filter"
                             Margin="5,5,5,5"
@@ -154,120 +156,6 @@
                     </StackPanel>
 
                 </Grid>
-                <!--
-                    <Grid DockPanel.Dock="Left">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition />
-                            <ColumnDefinition />
-                        </Grid.ColumnDefinitions>
-                        <Label Grid.Column="0"
-                               Content="Alarm Set" />
-                        <ComboBox Grid.Column="1" Name="cmbAlarmSet1">
-                            <ComboBoxItem IsSelected="True">No Filter</ComboBoxItem>
-                            <ComboBoxItem>False</ComboBoxItem>
-                            <ComboBoxItem>True</ComboBoxItem>
-                        </ComboBox>
-                    </Grid>
-
-                    <Grid DockPanel.Dock="Top">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition />
-                            <ColumnDefinition />
-                        </Grid.ColumnDefinitions>
-                        <Label Grid.Column="0"
-                               Content="Time" />
-                        <ComboBox Grid.Column="1" Name="cmbTime1">
-                            <ComboBoxItem IsSelected="True">All Times</ComboBoxItem>
-                            <ComboBoxItem>00:00</ComboBoxItem>
-                            <ComboBoxItem>01:00</ComboBoxItem>
-                            <ComboBoxItem>02:00</ComboBoxItem>
-                            <ComboBoxItem>03:00</ComboBoxItem>
-                            <ComboBoxItem>04:00</ComboBoxItem>
-                            <ComboBoxItem>05:00</ComboBoxItem>
-                            <ComboBoxItem>06:00</ComboBoxItem>
-                            <ComboBoxItem>07:00</ComboBoxItem>
-                            <ComboBoxItem>08:00</ComboBoxItem>
-                            <ComboBoxItem>09:00</ComboBoxItem>
-                            <ComboBoxItem>10:00</ComboBoxItem>
-                            <ComboBoxItem>11:00</ComboBoxItem>
-                            <ComboBoxItem>12:00</ComboBoxItem>
-                            <ComboBoxItem>13:00</ComboBoxItem>
-                            <ComboBoxItem>14:00</ComboBoxItem>
-                            <ComboBoxItem>15:00</ComboBoxItem>
-                            <ComboBoxItem>16:00</ComboBoxItem>
-                            <ComboBoxItem>17:00</ComboBoxItem>
-                            <ComboBoxItem>18:00</ComboBoxItem>
-                            <ComboBoxItem>19:00</ComboBoxItem>
-                            <ComboBoxItem>20:00</ComboBoxItem>
-                            <ComboBoxItem>21:00</ComboBoxItem>
-                            <ComboBoxItem>22:00</ComboBoxItem>
-                            <ComboBoxItem>23:00</ComboBoxItem>
-                        </ComboBox>
-                    </Grid>
-
-                    <Grid DockPanel.Dock="Top">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition />
-                            <ColumnDefinition />
-                        </Grid.ColumnDefinitions>
-                        <Label Grid.Column="0"
-                               Content="Item" />
-                        <TextBox Grid.Column="1" Controls:TextBoxHelper.Watermark="Enter full item or partial name here"
-                                 Controls:TextBoxHelper.ClearTextButton="True"
-                                 Name="txtItemFilter1" />
-                    </Grid>
-
-                    <Grid DockPanel.Dock="Top">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition />
-                            <ColumnDefinition />
-                        </Grid.ColumnDefinitions>
-                        <Label Grid.Column="0"
-                               Content="Location" />
-                        <TextBox Grid.Column="1" Controls:TextBoxHelper.Watermark="Enter full item or partial name here"
-                                 Controls:TextBoxHelper.ClearTextButton="True"
-                                 Name="txtLocationFilte1r" />
-                    </Grid>
-                    
-                    <Grid DockPanel.Dock="Top">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition />
-                            <ColumnDefinition />
-                        </Grid.ColumnDefinitions>
-                        <Label Grid.Column="0"
-                               Content="Class" />
-                        <ComboBox Grid.Column="1"
-                                  Name="cmbClassFilter1">
-                            <ComboBoxItem IsSelected="True">All Classes</ComboBoxItem>
-                            <ComboBoxItem>Miner</ComboBoxItem>
-                            <ComboBoxItem>Botanist</ComboBoxItem>
-                        </ComboBox>
-                    </Grid>
-                    
-                    <Button DockPanel.Dock="Bottom" Name="btnApplyFilter1"
-                            Content="Apply Filter"
-                            Click="btnApplyFilter_Click"/>
-                    <Button DockPanel.Dock="Bottom" Content="CLear Filter"
-                            Name="btnClearFilter1"
-                            Click="btnClearFilter_Click" />                    
-                </DockPanel> -->
-                <!--  <DockPanel LastChildFill="False">
-                    <Label DockPanel.Dock="Top" Content="Select Column"/>
-                    <ComboBox DockPanel.Dock="Top" Name="cmbColumnFilter"
-                              ItemsSource="{Binding columnNameList}"/>
-                    <Label DockPanel.Dock="Top" Content="Enter Filter Value" />
-                    <TextBox DockPanel.Dock="Top" Controls:TextBoxHelper.Watermark="Enter Filter Value Here"
-                             Controls:TextBoxHelper.ClearTextButton="true"
-                             Name="txtFilterValue"
-                             />
-                    <Button DockPanel.Dock="Bottom" Name="btnApplyFilter"
-                            Content="Apply Filter"
-                            Click="btnApplyFilter_Click"/>
-                    <Button DockPanel.Dock="Bottom" Content="CLear Filter"
-                            Name="btnClearFilter"
-                            Click="btnClearFilter_Click" />
-                </DockPanel> -->
-
             </Controls:Flyout>
             <Controls:Flyout AnimateOpacity="True"
                              AnimateOnPositionChange="True"
@@ -277,7 +165,8 @@
                              Header="Configure Settings"
                              Theme="Inverse">
                 <DockPanel Width="350"
-                           Margin="2,0,0,0">
+                           Margin="2,0,0,0"
+                           LastChildFill="False">
                     <Grid DockPanel.Dock="Top">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="275"/>
@@ -321,24 +210,40 @@
                                            Header="Text-To-Speech"
                                            HorizontalAlignment="Left" 
                                            Margin="0,10,0,0"
-                                               IsChecked="{Binding PlayNotification, Mode=TwoWay}"
+                                               IsChecked="{Binding UseTextToSpeech, Mode=TwoWay}"
                                            />
                         <Controls:ToggleSwitch Grid.Column="1" 
                                                Name="tglNotificationTone"
                                            Header="Notification Tone"
                                            HorizontalAlignment="Left" 
-                                               IsChecked="{Binding UseTextToSpeech, Mode=TwoWay}"
+                                               IsChecked="{Binding PlayNotification, Mode=TwoWay}"
                                            Margin="0,10,0,0"/>
                     </Grid>
+                    <Label Name="lblEasterEggTextToSpeech" DockPanel.Dock="Top" Content="Alpha Text-To-Speeh Easter Egg Enabled" Visibility="Hidden" Foreground="Yellow" />
+                    <Label DockPanel.Dock="Top" Content="Third party items used" />
+                    <Label DockPanel.Dock="Top" Content="MahApps.Metro" />
+                    <Label DockPanel.Dock="Top" Content="MahApps.Metro.Resources" />
+                    <Label DockPanel.Dock="Top" Content="Fonts: EnTypo" />
+                    <Button DockPanel.Dock="Top"  Name="btnViewThirdParty"
+                            Click="btnViewThirdParty_Click"
+                            Content="View Third Party Licenses" />
                 </DockPanel>          
 
             </Controls:Flyout>
         </Controls:FlyoutsControl>
     </Controls:MetroWindow.Flyouts>
-        <DockPanel LastChildFill="true">
+    <DockPanel LastChildFill="true">
         <tb:TaskbarIcon IconSource="icon.ico"
                         ToolTipText="Discerning Eye (double click to open application)" 
-                        Name="trayIcon"/>
+                        Name="trayIcon"
+                        TrayMouseDoubleClick="trayIcon_MouseDoubleClick">
+            <tb:TaskbarIcon.ContextMenu>
+                <ContextMenu Background="LightCoral">
+                    <MenuItem Header="Close Application"
+                              Click="MenuItemClose_Click" />
+                </ContextMenu>
+            </tb:TaskbarIcon.ContextMenu>
+        </tb:TaskbarIcon>
             <!--
                <StatusBar DockPanel.Dock="Bottom">
             <StatusBar.ItemsPanel>

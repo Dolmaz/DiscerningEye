@@ -8,6 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("thirdpartylicenses/entypo-license.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("thirdpartylicenses/mahapps.metro-license.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("thirdpartylicenses/windowsicons-license.txt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("nodes.xml")]
 
 

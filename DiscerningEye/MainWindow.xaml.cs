@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Media;
@@ -41,12 +42,15 @@ namespace DiscerningEye
         public List<string> columnNameList;
 
 
+
         private EorzeaTimeExtension eorzeaTimeExtension;
         private ObservableCollection<Node> nodeList;
         private bool _IsEditingAlarms;
         private bool _PlayNotification;
         private bool _UseTextToSpeech;
         private int _DataGridSearchIndex;
+        private int _EasterEggTextToSpeech;
+        private bool _EnableEasterEggTextToSpeech;
         private double _AlarmPretrigger;
         private double _EorzeanOffset;
 
@@ -123,6 +127,15 @@ namespace DiscerningEye
             set
             {
                 this._UseTextToSpeech = value;
+                if (value)
+                {
+                    this._EasterEggTextToSpeech++;
+                    if (this._EasterEggTextToSpeech >= 10 && this._EnableEasterEggTextToSpeech == false)
+                    {
+                        this._EnableEasterEggTextToSpeech = true;
+                        this.lblEasterEggTextToSpeech.Visibility = Visibility.Visible;
+                    }
+                }
                 OnPropertyChanged(new PropertyChangedEventArgs("UseTextToSpeech"));
             }
         }
@@ -197,6 +210,8 @@ namespace DiscerningEye
             this.updateTimer.Elapsed += UpdateTimer_Elapsed;
             this.updateTimer.Start();
 
+
+
         }
         #endregion Constructor
 
@@ -239,6 +254,41 @@ namespace DiscerningEye
         //
         //================================================================
         #region WindowEvents
+        /// <summary>
+        /// Occurs when the window has finished loading
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void mainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            //  Present message about Eorzea Time being off sometimes and how to resolve.
+            this.ShowMessageAsync("Reminder about Eorzean Time", "The time shown on the app for Current Eorzean Time may be off.  This is becuase it syncs based on your computers system time.  If it is off there are two things you can do:" +
+                                   "\n\n1) Perform a sync with your current set Internet Time Server" +
+                                   "\n\n2) Adjust the Eorzean Time Offset value found in settings by clicking the cog wheel in the top right");
+        }
+
+        /// <summary>
+        /// Occurs when the window is closed
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void mainWindow_Closed(object sender, EventArgs e)
+        {
+            //  Ensure the trayicon object is disposed so we don't get ghost icons in the system tray
+            this.trayIcon.Dispose();
+        }
+
+        /// <summary>
+        /// Occurs when the windows state is changed
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void mainWindow_StateChanged(object sender, EventArgs e)
+        {
+            //  If the window is now minimized, make it hidden (minimze to tray effect)
+            if (this.WindowState == WindowState.Minimized)
+                this.Visibility = Visibility.Hidden;
+        }
         #endregion WindowEvents
 
 
@@ -303,7 +353,11 @@ namespace DiscerningEye
                 }
 
                 //  Compile final string
-                string text = "The Following nodes are avaliable\n" + sb.ToString();
+                string text = string.Empty;
+                if (this._EnableEasterEggTextToSpeech)
+                    text = "The Following nodes are avaliable\n" + sb.ToString();
+                else
+                    text = "The Following nodes are available\n" + sb.ToString();
 
                 //  Use text-to-speech if enabled
                 if (this.UseTextToSpeech)
@@ -318,6 +372,22 @@ namespace DiscerningEye
         }
         #endregion updateTimer
 
+        #region dataGrid
+        //
+        //  dataGrid
+        //
+
+        /// <summary>
+        /// Occurs when the checkbox in the checkbox column is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            //  Add the item to the alarm collection object
+            this.alarmCollection.Add(new AlarmItem(this.dataGrid.SelectedItem as Node));
+        }
+        #endregion dataGrid
 
         #region EorzeaTimeExtension
         //
@@ -474,6 +544,55 @@ namespace DiscerningEye
             this.nudAlarmPreTrigger.IsEnabled = false;
         }
         #endregion chkAlarmPretrigger
+
+        #region trayIcon
+        //
+        //  trayIcon
+        //
+
+        /// <summary>
+        /// Occurs when the tray icon is double clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void trayIcon_MouseDoubleClick(object sender, RoutedEventArgs e)
+        {
+            //  Restore the window state and make the window visible
+            this.WindowState = WindowState.Normal;
+            this.Visibility = Visibility.Visible;
+        }
+
+        /// <summary>
+        /// Occurs whent he close menu item is clicked on the trayIcon context menu
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void MenuItemClose_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+        #endregion trayIcon
+
+        #region btnViewThirdParty
+        //
+        //  btnViewThirdParty
+        //
+
+        /// <summary>
+        /// Occurs when btnViewThirdParty is clicked
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnViewThirdParty_Click(object sender, RoutedEventArgs e)
+        {
+            string folderLocation = Environment.CurrentDirectory + "\\ThirdPartyLicenses";
+            if (Directory.Exists(folderLocation))
+                Process.Start(folderLocation);
+            else
+                this.ShowMessageAsync("Folder Not Found", "The following folder could not be located:\n\n" + folderLocation);
+
+        }
+        #endregion btnViewThirdParty
         #endregion OtherEventHandlers
 
 
@@ -491,6 +610,7 @@ namespace DiscerningEye
             if (!File.Exists(NodeFilePath))
             {
                 //  Show file missing dialog
+                this.ShowMessageAsync("File nodes.xml Missing", "Could not locate the file nodes.xml at the following location\n\n" + NodeFilePath);
             }
             else
             {
@@ -547,7 +667,6 @@ namespace DiscerningEye
             else
                 setAlarm = false;
 
-            //bool? setAlarm = (this.cmbAlarmSet.Text == "No Filter");
             string time = (this.cmbTime.Text == "All Times") ? "" : this.cmbTime.Text;
             string item = this.txtItemFilter.Text;
             string location = this.txtLocationFilter.Text;
@@ -579,96 +698,8 @@ namespace DiscerningEye
             {
                 flyout.IsOpen = false;
             }
-
-            ////  Ensure there is a filter selected
-            //if (this.cmbColumnFilter.SelectedIndex == -1)
-            //{
-            //    this.ShowMessageAsync("Column Filter Not Selected", "You must select a column to filter on in the filter options");
-            //}
-            //else
-            //{
-
-
-
-            //    ICollectionView cv = CollectionViewSource.GetDefaultView(dataGrid.ItemsSource);
-            //    cv.GroupDescriptions.Add(new PropertyGroupDescription("Location"));
-
-            //    cv.Filter = o =>
-            //    {
-            //        Node node = o as Node;
-            //        switch (this.cmbColumnFilter.SelectedValue.ToString())
-            //        {
-            //            case "Set Alarm":
-            //                return (node.SetAlarm == Boolean.Parse(this.txtFilterValue.Text));
-            //                break;
-            //            case "Time":
-            //                return (node.Time == this.txtFilterValue.Text);
-            //                break;
-            //            case "Item":
-            //                return (node.Item == this.txtFilterValue.Text);
-            //                break;
-            //            case "Slot":
-            //                return (node.Slot == this.txtFilterValue.Text);
-            //                break;
-            //            case "Star":
-            //                return (node.Star == this.txtFilterValue.Text);
-            //                break;
-            //            case "Location":
-            //                return (node.Location == this.txtFilterValue.Text);
-            //                break;
-            //            case "Class":
-            //                return (node.ClassJob == this.txtFilterValue.Text);
-            //                break;
-            //            case "Node Type":
-            //                return (node.Nodetype == this.txtFilterValue.Text);
-            //                break;
-            //        }
-            //        return (node.Nodetype == "miner");
-            //    };
-
-
-            //    var flyout = this.Flyouts.Items[0] as Flyout;
-            //    if (flyout != null)
-            //    {
-            //        flyout.IsOpen = false;
-            //    }
-
-            //}
-
-
         }
-
-        private void CheckBox_Checked(object sender, RoutedEventArgs e)
-        {
-            this.alarmCollection.Add(new AlarmItem(this.dataGrid.SelectedItem as Node));
-        }
-
-        private void mainWindow_SizeChanged(object sender, SizeChangedEventArgs e)
-        {
-            MessageBox.Show("Width: " + this.Width + " Height: " + this.Height);
-        }
-
         #endregion HelperMethods
-
-        //================================================================
-        //
-        //  Unused Commented out code.  Need to remove when verified unused
-        //
-        //================================================================
-        //////private void LoadXML()
-        //////{
-        //////    //var nodelist = XElement.Load(Environment.CurrentDirectory + "\\nodes.xml");
-        //////    var nodelist = XDocument.Load(Environment.CurrentDirectory + "\\nodes.xml").Root;
-        //////    this.dataGrid.DataContext = nodelist;
-        //////}
-
-
-
-
-
-
-
-
 
 
     }

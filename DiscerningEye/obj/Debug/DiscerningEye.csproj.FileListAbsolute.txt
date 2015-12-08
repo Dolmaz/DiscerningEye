@@ -23,7 +23,11 @@ C:\Users\Nyx\documents\visual studio 2015\Projects\DiscerningEyeWPF\DiscerningEy
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEyeWPF\bin\Debug\DiscerningEye.exe.config
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEyeWPF\obj\Debug\DiscerningEye.exe
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEyeWPF\obj\Debug\DiscerningEye.pdb
+C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\ThirdPartyLicenses\Entypo-license.txt
+C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\ThirdPartyLicenses\MahApps.Metro-license.txt
+C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\ThirdPartyLicenses\WindowsIcons-license.txt
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\nodes.xml
+C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\Resources\ding.wav
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\DiscerningEye.exe.config
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\DiscerningEye.exe
 C:\Users\Nyx\Documents\Visual Studio 2015\Projects\DiscerningEye\DiscerningEye\bin\Debug\DiscerningEye.pdb
