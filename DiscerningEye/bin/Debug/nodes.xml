@@ -1,0 +1,2486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfNode>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Darksteel Ore</Item>
+    <Slot>3</Slot>
+    <Location>Coerthas Central Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Pumice</Item>
+    <Slot>1</Slot>
+    <Location>Eastern La Noscea</Location>
+    <Star>3</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Antumbral Rock</Item>
+    <Slot>7</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>03:00</Time>
+    <Item>Ferberite</Item>
+    <Slot>6</Slot>
+    <Location>Northern Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>03:00</Time>
+    <Item>Raw Topaz</Item>
+    <Slot>7</Slot>
+    <Location>Northern Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>03:00</Time>
+    <Item>Raw Iolite</Item>
+    <Slot>8</Slot>
+    <Location>Northern Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Native Gold</Item>
+    <Slot>6</Slot>
+    <Location>Central Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Raw Diamond</Item>
+    <Slot>8</Slot>
+    <Location>Central Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Raw Emerald</Item>
+    <Slot>7</Slot>
+    <Location>Central Thanalan</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Platinum Ore</Item>
+    <Slot>6</Slot>
+    <Location>Southern Thanalan</Location>
+    <Star>3</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Western Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Gold Sand</Item>
+    <Slot>2</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>06:00</Time>
+    <Item>Umbral Rock</Item>
+    <Slot>7</Slot>
+    <Location>South Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Gold Ore</Item>
+    <Slot>6</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Coblyn Larva</Item>
+    <Slot>7</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Gregarious Worm</Item>
+    <Slot>1</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Volcanic Rock Salt</Item>
+    <Slot>1</Slot>
+    <Location>Eastern La Noscea</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Virgin Basilisk Egg</Item>
+    <Slot>6</Slot>
+    <Location>Northern Thanalan</Location>
+    <Star>3</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>18:00</Time>
+    <Item>Raw Ruby</Item>
+    <Slot>7</Slot>
+    <Location>Lower La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>18:00</Time>
+    <Item>Raw Sapphire</Item>
+    <Slot>8</Slot>
+    <Location>Lower La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>19:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Middle La Noscea</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Astral Rock</Item>
+    <Slot>7</Slot>
+    <Location>Coerthas Central Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Yellow Quartz</Item>
+    <Slot>4</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Yellow Quartz</Item>
+    <Slot>4</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Green Quartz</Item>
+    <Slot>6</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>14:00</Time>
+    <Item>Green Quartz</Item>
+    <Slot>6</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Cuprite</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>60-72</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>14:00</Time>
+    <Item>Cuprite</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>60-72</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Light Kidney Ore</Item>
+    <Slot>3</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>14:00</Time>
+    <Item>Light Kidney Ore</Item>
+    <Slot>3</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Astral Moraine</Item>
+    <Slot>4</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>15-18</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Aurum Regis Ore</Item>
+    <Slot>6</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>15-18</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Sun Mica</Item>
+    <Slot>2</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>12-14</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>07:00</Time>
+    <Item>Blue Quartz</Item>
+    <Slot>7</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>07:00</Time>
+    <Item>Red Alumen</Item>
+    <Slot>2</Slot>
+    <Location>Azys Lla</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>07:00</Time>
+    <Item>Violet Quartz</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Chalcocite</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Chalcocite</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Pyrite</Item>
+    <Slot>3</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>360 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Pyrite</Item>
+    <Slot>3</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>360 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Limonite</Item>
+    <Slot>4</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Limonite</Item>
+    <Slot>4</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>11:00</Time>
+    <Item>Adamantite Ore</Item>
+    <Slot>6</Slot>
+    <Location>Azys Lla</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>12-14</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>23:00</Time>
+    <Item>Adamantite Ore</Item>
+    <Slot>6</Slot>
+    <Location>Azys Lla</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>12-14</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Yellow Copper Ore</Item>
+    <Slot>2</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Yellow Copper Ore</Item>
+    <Slot>2</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts />
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Abalathian Rock Salt</Item>
+    <Slot>1</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Abalathian Rock Salt</Item>
+    <Slot>1</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Red Quartz</Item>
+    <Slot>6</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>54-64</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Red Quartz</Item>
+    <Slot>6</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>54-64</BlueScripts>
+    <RedScripts />
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Bright Fire Rock</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Radiant Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Bright Fire Rock</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Radiant Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Bright Fire Rock</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Radiant Fire Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Lightning Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Bright Lightning Rock</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Radiant Lightning Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Lightning Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Bright Lightning Rock</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Radiant Lightning Moraine</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Miner</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Silkworm Cocoon</Item>
+    <Slot>4</Slot>
+    <Location>East Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>01:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Fragrant Log</Item>
+    <Slot>6</Slot>
+    <Location>South Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Shroud Tea Leaves</Item>
+    <Slot>6</Slot>
+    <Location>Central Shroud</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>03:00</Time>
+    <Item>Scarlet Sap</Item>
+    <Slot>4</Slot>
+    <Location>North Shroud</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Ebony Log</Item>
+    <Slot>6</Slot>
+    <Location>Middle La Noscea</Location>
+    <Star>3</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Trillium</Item>
+    <Slot>1</Slot>
+    <Location>East Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Honey Lemon</Item>
+    <Slot>2</Slot>
+    <Location>Eastern La Noscea</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>05:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>06:00</Time>
+    <Item>Young Cieldalaes Spinach</Item>
+    <Slot>6</Slot>
+    <Location>Lower La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>06:00</Time>
+    <Item>Redolent Log</Item>
+    <Slot>6</Slot>
+    <Location>Central Shroud</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>07:00</Time>
+    <Item>Blood Orange</Item>
+    <Slot>2</Slot>
+    <Location>Upper La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>07:00</Time>
+    <Item>Bamboo Stick</Item>
+    <Slot>6</Slot>
+    <Location>Upper La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>La Noscean Leek</Item>
+    <Slot>6</Slot>
+    <Location>Western La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Waterfowl Feather</Item>
+    <Slot>2</Slot>
+    <Location>Western La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Can be Slot 2, 5, or 6.</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Apricot</Item>
+    <Slot>2</Slot>
+    <Location>Middle La Noscea</Location>
+    <Star>2</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Spruce Log</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Central Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Prickly Pineapple</Item>
+    <Slot>4</Slot>
+    <Location>Eastern La Noscea</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Grade 4 Carbonized Matter</Item>
+    <Slot>1</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Lightning Cluster</Item>
+    <Slot>2</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Fire Cluster</Item>
+    <Slot>3</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>4</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Water Cluster</Item>
+    <Slot>5</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Ice Cluster</Item>
+    <Slot>6</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>7</Slot>
+    <Location>Mor Dhona</Location>
+    <Star>0</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Cypress Log</Item>
+    <Slot>6</Slot>
+    <Location>Central Shroud</Location>
+    <Star>3</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Vampire Plant</Item>
+    <Slot>8</Slot>
+    <Location>Coerthas Central Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Black Truffle</Item>
+    <Slot>7</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Mazlaya Greens</Item>
+    <Slot>2</Slot>
+    <Location>Eastern Thanalan</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>13:00</Time>
+    <Item>Dzemael Tomato</Item>
+    <Slot>3</Slot>
+    <Location>Eastern La Noscea</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Thavnairian Mistletoe</Item>
+    <Slot>2</Slot>
+    <Location>Coerthas Central Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Rosemary</Item>
+    <Slot>1</Slot>
+    <Location>East Shroud</Location>
+    <Star>3</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Kidragora</Item>
+    <Slot>7</Slot>
+    <Location>East Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Trillium Bulb</Item>
+    <Slot>8</Slot>
+    <Location>East Shroud</Location>
+    <Star>1</Star>
+    <ClassJob>bontanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>N/A</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Old World Fig Seeds</Item>
+    <Slot>1</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>14:00</Time>
+    <Item>Old World Fig Seeds</Item>
+    <Slot>1</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>02:00</Time>
+    <Item>Old World Fig</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>14:00</Time>
+    <Item>Old World Fig</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>240 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Seventh Heaven</Item>
+    <Slot>1</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>15-18</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Honeydew Almonds</Item>
+    <Slot>2</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>15-18</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>17:00</Time>
+    <Item>Vanilla Beans</Item>
+    <Slot>3</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>15-18</RedScripts>
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>19:00</Time>
+    <Item>Snurbleberry</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>19:00</Time>
+    <Item>Dravanian Paprika</Item>
+    <Slot>3</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>19:00</Time>
+    <Item>Wattle Bark</Item>
+    <Slot>5</Slot>
+    <Location>Azys Lla</Location>
+    <Star>1</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>600 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>09:00</Time>
+    <Item>Chysahl Greens</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>12-14</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>21:00</Time>
+    <Item>Chysahl Greens</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>12-14</RedScripts>
+    <Notes>470 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Chives</Item>
+    <Slot>1</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Chives</Item>
+    <Slot>1</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Pearl Sprout Seeds</Item>
+    <Slot>2</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Pearl Sprout Seeds</Item>
+    <Slot>2</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Coerthan Tea Seeds</Item>
+    <Slot>3</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Coerthan Tea Seeds</Item>
+    <Slot>3</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Pearl Sprouts</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Pearl Sprouts</Item>
+    <Slot>6</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Coerthan Tea Leaves</Item>
+    <Slot>7</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Coerthan Tea Leaves</Item>
+    <Slot>7</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Heavens Lemon</Item>
+    <Slot>2</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Heavens Lemon</Item>
+    <Slot>2</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>48-57</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>10:00</Time>
+    <Item>Abalathian Mistletoe</Item>
+    <Slot>3</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>54-64</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>22:00</Time>
+    <Item>Abalathian Mistletoe</Item>
+    <Slot>3</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>54-64</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Dravanian Mistletoe</Item>
+    <Slot>3</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Dravanian Mistletoe</Item>
+    <Slot>3</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>400 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Porcini</Item>
+    <Slot>7</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>360 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Porcini</Item>
+    <Slot>7</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>360 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Cloud Banana</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>58-57</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Cloud Banana</Item>
+    <Slot>2</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>58-57</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Morel</Item>
+    <Slot>7</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>60-72</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>12:00</Time>
+    <Item>Morel</Item>
+    <Slot>7</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Unspoiled</Nodetype>
+    <BlueScripts>60-72</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>450 Min. Collectability</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Highland Oregano</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Fury Mint</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>00:00</Time>
+    <Item>Clary Sage</Item>
+    <Slot>unknown</Slot>
+    <Location>Coerthas Western Highlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 4 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 Am</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Granular Clay</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 Am</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Peat Moss</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 Am</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>04:00</Time>
+    <Item>Black Soil</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Hinterlands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 Am</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Granular Clay</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Peat Moss</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>08:00</Time>
+    <Item>Black Soil</Item>
+    <Slot>unknown</Slot>
+    <Location>The Dravanian Forelands</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Earth Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Granular Clay</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Peat Moss</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>16:00</Time>
+    <Item>Black Soil</Item>
+    <Slot>unknown</Slot>
+    <Location>The Churning Mists</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 8 PM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Wind Cluster</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Highland Oregano</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Fury Mint</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+  <Node>
+    <SetAlarm>false</SetAlarm>
+    <Time>20:00</Time>
+    <Item>Clary Sage</Item>
+    <Slot>unknown</Slot>
+    <Location>The Sea of Clouds</Location>
+    <Star>0</Star>
+    <ClassJob>Botanist</ClassJob>
+    <Nodetype>Ephemeral</Nodetype>
+    <BlueScripts>0</BlueScripts>
+    <RedScripts>0</RedScripts>
+    <Notes>Until 12 AM</Notes>
+  </Node>
+</ArrayOfNode>
